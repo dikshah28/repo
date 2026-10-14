@@ -1,3 +1,3 @@
 # repo
 repository on github!
-learning
+learning and exploring.
