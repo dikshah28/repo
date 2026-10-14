@@ -1,2 +1,2 @@
 # repo
-repository! on github
+repository on github!
