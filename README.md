@@ -1,3 +1,3 @@
 # repo
-repository on github!
+repository on github
 learning and exploring.
